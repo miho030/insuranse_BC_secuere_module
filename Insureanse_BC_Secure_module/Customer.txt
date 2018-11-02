@@ -1,0 +1,26 @@
+InsurenceName:RecipientName:Subscribers:Price($)
+Dongbu:FoxEarPhile:FoxEarPhile:5000
+samsung:Lee.Jason:Ms.misty:3500
+Dongbu:Chang.jhonson:kim hejin:60000
+Hanwha:huan.Resiger:huan.Resiger:150
+Samsung:takayama:yamamoto:730
+Dongbu:FoxEarPhile:FoxEarPhile:5000
+samsung:Lee.Jason:Ms.misty:3500
+Dongbu:Chang.jhonson:kim hejin:60000
+Hanwha:huan.Resiger:huan.Resiger:150
+Samsung:takayama:yamamoto:730
+Dongbu:FoxEarPhile:FoxEarPhile:5000
+samsung:Lee.Jason:Ms.misty:3500
+Dongbu:Chang.jhonson:kim hejin:60000
+Hanwha:huan.Resiger:huan.Resiger:150
+Samsung:takayama:yamamoto:71340
+Dongbu:FoxEarPhile:FoxEarPhile:5000
+samsung:Lee.Jason:Ms.misty:3500
+Dongbu:Chang.jhonson:kim hejin:60000
+Hanwha:huan.Resiger:huan.Resiger:910
+Samsung:takayama:yamamoto:730
+Dongbu:FoxEarPhile:FoxEarPhile:50001
+samsung:Lee.Jason:Ms.misty:3500
+Dongbu:Chang.jhonson:kim hejin:6005
+Hanwha:huan.Resiger:huan.Resiger:1530
+Samsung:takayama:yamamoto:740
